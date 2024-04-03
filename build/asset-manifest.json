@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/swaga_bears/static/css/main.ba6eee3b.chunk.css",
+    "main.js": "/swaga_bears/static/js/main.be759d88.chunk.js",
+    "main.js.map": "/swaga_bears/static/js/main.be759d88.chunk.js.map",
+    "runtime-main.js": "/swaga_bears/static/js/runtime-main.50a0dcd4.js",
+    "runtime-main.js.map": "/swaga_bears/static/js/runtime-main.50a0dcd4.js.map",
+    "static/css/2.2a3b7b9b.chunk.css": "/swaga_bears/static/css/2.2a3b7b9b.chunk.css",
+    "static/js/2.eef6469d.chunk.js": "/swaga_bears/static/js/2.eef6469d.chunk.js",
+    "static/js/2.eef6469d.chunk.js.map": "/swaga_bears/static/js/2.eef6469d.chunk.js.map",
+    "index.html": "/swaga_bears/index.html",
+    "static/css/2.2a3b7b9b.chunk.css.map": "/swaga_bears/static/css/2.2a3b7b9b.chunk.css.map",
+    "static/css/main.ba6eee3b.chunk.css.map": "/swaga_bears/static/css/main.ba6eee3b.chunk.css.map",
+    "static/js/2.eef6469d.chunk.js.LICENSE.txt": "/swaga_bears/static/js/2.eef6469d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/swaga_bears/static/media/background.3f9e0992.jpg",
+    "static/media/font-awesome.min.css": "/swaga_bears/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/slick-theme.css": "/swaga_bears/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50a0dcd4.js",
+    "static/css/2.2a3b7b9b.chunk.css",
+    "static/js/2.eef6469d.chunk.js",
+    "static/css/main.ba6eee3b.chunk.css",
+    "static/js/main.be759d88.chunk.js"
+  ]
+}
